@@ -77,4 +77,4 @@ A **Logistic Regression** model (`class_weight='balanced'`) is the official Modu
 
 ## Notebook
 
-See [`Capstone_EDA_Module20_Sanchitag.ipynb`](https://github.com/sanchitag22/CapstoneProject_UCB_MarketplaceSellerRiskandLossPrevention/blob/main/Capstone_EDA_Module20_Sanchitag.ipynb) for the full analysis, code, visualizations, and section-by-section observations.
+See [`Capstone_EDA_Module16_Sanchitag.ipynb`](https://github.com/sanchitag22/CapstoneProject_UCB_MarketplaceSellerRiskandLossPrevention/blob/main/Capstone_EDA_Module20_Sanchitag.ipynb) for the full analysis, code, visualizations, and section-by-section observations.
